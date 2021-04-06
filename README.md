@@ -9,5 +9,5 @@ für Original- oder Ruida-Controller
 ### Dieser Wabentisch fükussiert die zu schneidende Platte automatisch.
 ![Picture](https://github.com/MakeMagazinDE/Wabentisch/blob/main/Wabentisch.JPG) 
 
-Den vollständigen Artikel mit der Bauanleitung gibt es in der **[Make-Ausgabe 2/21 ab Seite 8](https://www.heise.de/select/make/2021/2/2103513080130883903)** zu lesen. 
+Den vollständigen Artikel mit der Bauanleitung gibt es in der **[Make-Ausgabe 2/21 ab Seite 110](https://www.heise.de/select/make/2021/2/2102708255450326563)** zu lesen. 
 
