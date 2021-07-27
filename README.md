@@ -3,11 +3,11 @@
 Maker Media GmbH
 *** 
 
-# Wabentisch für K40
-für Original- oder Ruida-Controller
+# SATANAS
+NAS mit SATA-Festplatten auf Basis des Raspberry Pi Comppute Module 4
 
-### Dieser Wabentisch fokussiert die zu schneidende Platte automatisch.
-![Picture](https://github.com/MakeMagazinDE/Wabentisch/blob/main/Wabentisch.JPG) 
+### NAS mit bis zu vier SATA-Festplatten
+![Picture](https://github.com/MakeMagazinDE/SATANAS/blob/main/SATANAS.JPG) 
 
-Den vollständigen Artikel mit der Bauanleitung gibt es in der **[Make-Ausgabe 2/21 ab Seite 110](https://www.heise.de/select/make/2021/2/2102708255450326563)** zu lesen. 
+Den vollständigen Artikel mit der Bauanleitung gibt es in der **[Make-Ausgabe 4/21 ab Seite 40](https://www.heise.de/select/make/2021/4/2033811215351927251)** zu lesen. 
 
