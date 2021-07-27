@@ -4,7 +4,7 @@ Maker Media GmbH
 *** 
 
 # SATANAS
-NAS mit SATA-Festplatten auf Basis des Raspberry Pi Comppute Module 4
+NAS mit SATA-Festplatten auf Basis des Raspberry Pi Compute Module 4
 
 ### NAS mit bis zu vier SATA-Festplatten
 ![Picture](https://github.com/MakeMagazinDE/SATANAS/blob/main/SATANAS.JPG) 
